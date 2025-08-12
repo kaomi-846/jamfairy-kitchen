@@ -29,7 +29,7 @@
 
 [投稿フォームを開く](https://docs.google.com/forms/d/e/1FAIpQLSdvMd0DAfKE_jHLGf7pVx5tp504A1ZoMv5VDRLWbH202tfh4Q/viewform?usp=dialog)
 📝ブログにてご紹介（準備中）
- - [Ameba Ownd 🍓JamFairyのキッチンだより🍓](https://jamfairy-recipeapp.amebaownd.com/pages/9143072/blog))
+ - [Ameba Ownd 🍓JamFairyのキッチンだより🍓](https://jamfairy-recipeapp.amebaownd.com/pages/9143072/blog)
 
 
 
