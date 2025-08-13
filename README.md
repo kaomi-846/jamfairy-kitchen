@@ -7,7 +7,7 @@
 ---
 
 ## 🌸 Welcome
-![Welcome Image](jamapp_welcome.png)
+![Welcome Image](jamapp_welcome.png.png)
 
 ---
 
