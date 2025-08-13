@@ -29,7 +29,7 @@
 ## 📸 スクリーンショット
 | エントランス画面（Enterボタン付き） | アプリ画面例 |
 | ----------------------------------- | ------------ |
-| ![Enter Screen](jamapp_enter.png)   | ![App Screen](screenshot_app.png) |
+| ![Enter Screen](jamapp_enter.png.png)   | ![App Screen](screenshot_app.png) |
 
 ---
 
