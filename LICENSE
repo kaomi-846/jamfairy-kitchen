@@ -3,14 +3,17 @@ MIT License
 Copyright (c) 2025 kaori-846
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and merge the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Commercial use, resale, or redistribution of the Software, in whole or in part,
+   for profit or for any form of compensation, is strictly prohibited.
+
+2. Any copies or substantial portions of the Software must include the above
+   copyright notice and this permission notice.
+
+3. The Software may be modified for personal or educational use only.
+   Any modified versions must also comply with the above restrictions.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -19,3 +22,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+------------------------------------------------------------
+【日本語訳】
+------------------------------------------------------------
+Copyright (c) 2025 kaori-846
+
+本ソフトウェアおよび付随するドキュメントファイル（以下「ソフトウェア」）を取得した
+すべての人に対し、以下の条件の下で、使用、複製、改変、結合する権利を無償で許可します。
+
+1. 商用利用、再販売、または有償での配布は、ソフトウェア全体または一部において
+   固く禁止します。
+
+2. ソフトウェアの複製または重要な部分には、上記の著作権表示と本許可表示を
+   必ず含めなければなりません。
+
+3. ソフトウェアは個人利用または教育目的に限り改変が可能です。
+   改変版も上記の制限に従う必要があります。
+
+本ソフトウェアは「現状のまま」で提供され、明示または黙示を問わず、
+商品性、特定目的適合性、および非侵害についての保証は一切ありません。
+著作者または著作権者は、本ソフトウェアまたはその使用、
+その他の取り扱いに起因または関連して生じた一切の請求、損害、
+その他の責任について、契約行為、不法行為、またはその他の行為に
+基づくか否かを問わず、責任を負わないものとします。
