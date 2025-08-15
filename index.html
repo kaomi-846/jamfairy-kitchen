@@ -1,62 +1,76 @@
-<!--
-個人利用限定ライセンス / Personal Use Only License
-
-Copyright (c) 2025 農産工房やしろ
-
-このアプリケーション（以下「本アプリ」）および付随する画像・文章・デザインは、
-個人が非営利で利用することのみを許可します。
-商用利用、再配布、販売、二次販売、改変したものの再配布は禁止します。
-
-【許可されること】
-- 自分のPCやスマートフォンで本アプリを使用すること
-- 個人的に楽しむために画面キャプチャを取ること
-
-【禁止されること】
-- 本アプリや画像・デザインの商用利用（販売・広告利用等）
-- 再配布、再販売、二次販売
-- 改変したものを配布・販売すること
-- 自作発言や著作権の削除
-
-本アプリは「現状のまま」提供され、いかなる保証も行いません。
-
----
-Personal Use Only License
-
-Copyright (c) 2025 Nōsan Kōbō Yashiro
-
-This application ("the App"), including all images, text, and design, is licensed for
-personal, non-commercial use only. Commercial use, redistribution, resale,
-secondary sale, or distribution of modified versions is prohibited.
-
-Allowed:
-- Use the App on your personal PC or smartphone
-- Take screenshots for personal enjoyment
-
-Prohibited:
-- Commercial use of the App or its images/designs (including sale or advertising)
-- Redistribution, resale, secondary sale
-- Distribution or sale of modified versions
-- Claiming authorship or removing copyright notices
-
-The App is provided "as is" without warranty of any kind.
--->
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JamFairy's Kitchen</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JamFairy's Kitchen</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    header, footer {
+      text-align: center;
+      padding: 1em;
+      background: #fff5f8;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 1em;
+    }
+    footer {
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
 </head>
-<body>
-    <header>
-        <h1>🍓 JamFairy's Kitchen</h1>
-        <p>ようこそ！ジャム作りをもっと楽しく、もっと便利にするレシピアプリ</p>
-    </header>
 
-    <main>
-        <!-- ここにアプリのメイン機能や画面を配置 --><!DOCTYPE html>
+<!--
+Copyright (c) 2025 農産工房やしろ
+本ソフトウェアは個人利用に限り無料で使用できます。
+商用利用、販売、再配布は禁止されています。
+詳しくは LICENSE ファイルをご覧ください。
+-->
+
+<body>
+
+<header>
+  <h1>🍓 JamFairy's Kitchen</h1>
+  <p>ようこそ **JamFairy's Kitchen** へ！</p>
+</header>
+
+<!-- Welcome画像 -->
+<img src="jamapp_welcome.png" alt="Welcome Image" />
+
+<main>
+
+  <h2>✨ アプリの特徴</h2>
+  <ul>
+    <li>📋 レシピ入力が簡単 — 材料や手順をシンプルに記録</li>
+    <li>🖨️ 一括表示対応 — 加工品のラベル印刷にそのまま使える</li>
+    <li>🧮 自動計算 — 栄養成分を自動で計算</li>
+    <li>🌐 Webで利用可能 — インストール不要</li>
+  </ul>
+
+  <h2>🚀 はじめに</h2>
+  <p>原材料とジャムのタイプを選ぶと、必要な砂糖量がわかります。</p>
+
+  <h2>🍓 始めてみましょう</h2>
+  <!-- Enter画像 -->
+  <a href="app.html">
+    <img src="jamapp_enter.png" alt="Enter Screen" />
+  </a>
+
+ <!DOCTYPE html>
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
@@ -971,15 +985,15 @@ The App is provided "as is" without warranty of any kind.
         }
       }
     </script>
-  <img
-src="jamapp_welcome.png"
-alt="Welcome Image"
-style="max-width: 100%; height: auto;"
-/>
+  </body>
+</html>
 
-          <footer>
-            © 農産工房やしろ　個人利用限定
-          </footer>
-        
-        </body>
-        </html
+
+</main>
+
+<footer>
+  © 2025 農産工房やしろ — 本アプリは個人利用に限りご利用いただけます。商用利用は禁止です。
+</footer>
+
+</body>
+</html>
