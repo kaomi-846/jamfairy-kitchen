@@ -7,7 +7,7 @@
 ---
 
 ## 🌸 Welcome
-![Welcome Image](jamapp_welcome.png.png)
+![Welcome Image](jamapp_welcome.png)
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 
 ## 🍓始めてみましょう
- ![Enter Screen](jamapp_enter.png.png)   
+ ![Enter Screen](jamapp_enter.png)   
  
 ---
 
